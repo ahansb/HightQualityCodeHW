@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quality Methods", "High-quality Methods HW\Quality Methods.csproj", "{A5536AD6-9BA4-430F-92FC-0E05DF695FFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam rewrited", "Exam rewrited\Exam rewrited.csproj", "{455833C8-8757-493F-A42C-237EA11462AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5536AD6-9BA4-430F-92FC-0E05DF695FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5536AD6-9BA4-430F-92FC-0E05DF695FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5536AD6-9BA4-430F-92FC-0E05DF695FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5536AD6-9BA4-430F-92FC-0E05DF695FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{455833C8-8757-493F-A42C-237EA11462AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455833C8-8757-493F-A42C-237EA11462AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455833C8-8757-493F-A42C-237EA11462AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455833C8-8757-493F-A42C-237EA11462AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

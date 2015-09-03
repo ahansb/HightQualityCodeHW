@@ -1,0 +1,17 @@
+﻿﻿<#@ template debug="false" hostspecific="false" language="C#" #>
+<#@ assembly name="System.Core" #>
+<#@ import namespace="System.Text" #>
+<#@ import namespace="System.Collections.Generic" #>
+<#@ output extension=".cs" #>
+public class TestTemplateClass
+{
+public void Print(){
+<# int counter = 0; #>
+<# while(counter<10){ #>
+         <# counter++; 
+		 var b = counter + 200000;#>
+
+	     Console.WriteLine(<#=b#>);
+<#  }#>
+}
+}
